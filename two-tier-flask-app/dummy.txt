@@ -1,1 +1,5 @@
 This is a dummy file
+
+docker create volume mysql-data
+
+docker run -d --name mysql --network two-tier -v mysql-data:/var/lib/mysql 
