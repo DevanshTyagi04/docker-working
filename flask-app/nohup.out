@@ -1,0 +1,9 @@
+172.17.0.1 - - [04/Jun/2026 17:46:02] "GET /health HTTP/1.1" 200 -
+172.17.0.1 - - [04/Jun/2026 17:46:08] "[33mGET /error HTTP/1.1[0m" 404 -
+172.17.0.1 - - [04/Jun/2026 17:46:12] "GET /health HTTP/1.1" 200 -
+172.17.0.1 - - [04/Jun/2026 17:46:18] "GET / HTTP/1.1" 200 -
+172.17.0.1 - - [04/Jun/2026 17:46:22] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+172.17.0.1 - - [04/Jun/2026 17:46:27] "GET / HTTP/1.1" 200 -
+172.17.0.1 - - [04/Jun/2026 17:46:27] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+172.17.0.1 - - [04/Jun/2026 17:47:05] "GET /health HTTP/1.1" 200 -
+172.17.0.1 - - [04/Jun/2026 17:47:07] "[33mGET /thanus HTTP/1.1[0m" 404 -
