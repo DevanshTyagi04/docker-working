@@ -78,7 +78,7 @@ This project is deployed using Vercel.
 
 ### 📌 Future Improvements
 
-Add more interactive GSAP effects
+Add more interactive GSAP animations and scroll effects
 
 Improve accessibility
 
